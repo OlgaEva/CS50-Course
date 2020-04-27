@@ -30,3 +30,6 @@ clang -o int int.c -lcs50
 make int
 ./int
 clear
+git add .
+git commit -m "add int.c"
+git push origin master

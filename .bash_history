@@ -43,3 +43,8 @@ make float
 ./float
 make float
 ./float
+git add .
+git commit -m "add float.c"
+git push origin master
+make parity
+./parity

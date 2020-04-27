@@ -11,3 +11,10 @@ git commit -m "first C program"
 git config --global user.email "olga.rosas@gmail.com"
 git config --global user.name "OlgaEva"
 git log
+git add .
+git commit -m "first C program"
+git push origin master
+git push origin master -f
+clang -o string string.c
+clang -o string string.c -lcs50
+./string

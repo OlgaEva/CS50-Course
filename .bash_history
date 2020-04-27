@@ -36,3 +36,10 @@ git push origin master
 git add .
 git commit -m "add comment to int.c"
 git push origin master
+git add .
+git commit -m "fix typo"
+git push origin master
+make float
+./float
+make float
+./float

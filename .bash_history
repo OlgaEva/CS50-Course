@@ -33,3 +33,6 @@ clear
 git add .
 git commit -m "add int.c"
 git push origin master
+git add .
+git commit -m "add comment to int.c"
+git push origin master

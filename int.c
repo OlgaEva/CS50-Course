@@ -19,6 +19,6 @@ int main(void)
 or even:
 int main(void)
 {
-    printf("You are at least %i days old.\n", get_int("What's your age?" * 365);
+    printf("You are at least %i days old.\n", get_int("What's your age?\n" * 365);
 }
 */

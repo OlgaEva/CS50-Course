@@ -60,3 +60,8 @@ git commit -m "add conditions.c"
 git push origin master
 make cough0
 ./cough0
+git add .
+git commit -m "add cough0"
+git push origin master
+make cough1
+./cough1

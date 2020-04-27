@@ -65,3 +65,10 @@ git commit -m "add cough0"
 git push origin master
 make cough1
 ./cough1
+git add .
+git commit -m "add cough1"
+git push origin master
+make cough1
+./cough1
+make cough3
+./cough3

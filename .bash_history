@@ -55,3 +55,8 @@ make conditions
 ./conditions
 make conditions
 ./conditions
+git add .
+git commit -m "add conditions.c"
+git push origin master
+make cough0
+./cough0

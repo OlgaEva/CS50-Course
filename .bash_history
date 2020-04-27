@@ -48,3 +48,10 @@ git commit -m "add float.c"
 git push origin master
 make parity
 ./parity
+git add .
+git commit -m "add parity.c"
+git push origin master
+make conditions
+./conditions
+make conditions
+./conditions

@@ -86,3 +86,8 @@ git commit -m "add positive.c"
 git push origin master
 make mario0
 ./mario0
+git add .
+git commit -m "add mario0.c"
+git push origin master
+make mario2
+./mario2

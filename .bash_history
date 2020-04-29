@@ -81,3 +81,8 @@ git add .
 git commit -m "add positive.c"
 git config --global user.email "olga.rosas@gmail.com"
 git config --global user.name "OlgaEva"
+git add .
+git commit -m "add positive.c"
+git push origin master
+make mario0
+./mario0

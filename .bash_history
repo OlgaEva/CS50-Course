@@ -103,3 +103,12 @@ git commit -m "add mario8.c"
 git config --global user.email "olga.rosas@gmail.com"
 git config --global user.name "OlgaEva"
 git status
+git add .
+git commit -m "add mario8.c"
+git push origin master
+make floats
+./floats
+make floats
+./floats
+make floats
+./floats

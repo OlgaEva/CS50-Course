@@ -91,3 +91,15 @@ git commit -m "add mario0.c"
 git push origin master
 make mario2
 ./mario2
+git add .
+git commit -m "add mario2.c"
+git push origin master
+make mario8
+./mario8
+make mario8
+./mario8
+git add .
+git commit -m "add mario8.c"
+git config --global user.email "olga.rosas@gmail.com"
+git config --global user.name "OlgaEva"
+git status

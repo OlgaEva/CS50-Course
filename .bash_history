@@ -72,3 +72,12 @@ make cough1
 ./cough1
 make cough3
 ./cough3
+git add .
+git commit -m "add cough3.c"
+git push origin master
+make positive
+./positive
+git add .
+git commit -m "add positive.c"
+git config --global user.email "olga.rosas@gmail.com"
+git config --global user.name "OlgaEva"

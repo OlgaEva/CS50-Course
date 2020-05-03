@@ -117,3 +117,25 @@ git commit -m "add floats.c"
 git push origin master
 make overflow
 ./overflow
+git add .
+git commit -m "add overflow.c"
+git push origin master
+figlet this is cs50
+apt install figlet
+figlet this is cs50
+MovieBuff
+figlet MovieBuff
+say this is cs50
+apt install gnustep-gui-runtime
+make mario
+./mario
+make mario20
+./mario20
+make mario20
+./mario20
+make mario20
+./mario20
+git add .
+git commit -m "add mario20.c"
+git config --global user.email "olga.rosas@gmail.com"
+git config --global user.name "OlgaEva"
